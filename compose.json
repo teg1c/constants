@@ -1,0 +1,23 @@
+{
+  "name": "tegic/constants",
+  "type": "library",
+  "description": "注解 枚举类",
+  "authors": [
+    {
+      "name": "tegic",
+      "email": "teg1c@foxmail.com"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "enum"
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "tegic\\": "src/"
+    }
+  }
+}
